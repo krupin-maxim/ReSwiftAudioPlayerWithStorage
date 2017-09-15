@@ -1,0 +1,19 @@
+PODS:
+  - AEConsole (0.3.0):
+    - AELog (~> 0.3)
+  - AELog (0.3.0)
+  - ReSwift (4.0.0)
+
+DEPENDENCIES:
+  - AEConsole
+  - AELog
+  - ReSwift
+
+SPEC CHECKSUMS:
+  AEConsole: bde8ae8616522b88909dff1ba7a4aa6e86568e6e
+  AELog: 69608a89a1d0460ad32bba73f8e1043e12764d85
+  ReSwift: f058ef13b46ae5f463f10605ccbbb7fb04424d8d
+
+PODFILE CHECKSUM: 2882ba132043d3dd997936eb8924c2d509db6e46
+
+COCOAPODS: 1.2.1
